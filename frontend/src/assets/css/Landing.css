@@ -1,0 +1,42 @@
+.landing-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f7f7f7 url("https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+}
+
+.landing-title {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    color: aliceblue; /* add color */
+}
+
+.landing-subtitle {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    color: beige; /* add color */
+}
+
+.landing-description {
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-bottom: 2rem;
+    color: beige; /* add color */
+}
+
+.landing-img-fluid {
+    width: 100%;
+    height: auto;
+    border-radius: 0.25rem;
+}
+
+.landing-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
