@@ -5,7 +5,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/el_proyecte_grande
     username: postgres
-    password: Steaua93
+    password: postgres
 
   jpa:
     hibernate:
